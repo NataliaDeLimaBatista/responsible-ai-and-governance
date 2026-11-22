@@ -15,6 +15,6 @@ Read the OECD AI Principles for an overview, then look at a model card to see ho
 
 Add the title and a link to the original source in the relevant file. A sentence about what you learned or why it’s worth reading makes a new article or resource easier to revisit.
 
-```markdown
+<!--
 - [Title](https://example.com) — Why it’s worth reading.
-```
+-->
